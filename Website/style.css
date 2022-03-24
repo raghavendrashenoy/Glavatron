@@ -17196,12 +17196,12 @@ label.checkbox { padding-left: 20px; }
 }
 
 
-/* @media screen and .revo-slider-desc-text (min-width: 366px){
-	
-	z-index: 3; 
-	width: 750px; 
-	max-width: 750px; 
-	white-space: normal
-	
+.clearfix .hero{
+	text-align: center;
+}
 
-} */
+@media only screen and (max-width: 800px) {
+	.revo-slider-emphasis-text {
+	 font-size: 22px !important;  }
+  }
+  
