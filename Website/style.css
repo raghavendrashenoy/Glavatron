@@ -13535,7 +13535,7 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 #map-overlay {
 	position: relative;
-	padding: 100px 0;
+	padding: 40px 0;
 }
 
 #map-overlay .gmap {
@@ -17197,7 +17197,7 @@ label.checkbox { padding-left: 20px; }
 
 
 .clearfix .hero{
-	text-align: center;
+	text-align: left;
 }
 
 @media only screen and (max-width: 800px) {
