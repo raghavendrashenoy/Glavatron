@@ -17199,10 +17199,13 @@ label.checkbox { padding-left: 20px; }
 .clearfix .hero{
 	text-align: left;
 }
-
+@media only screen and (man-width: 400px) {
+	.revo-slider-emphasis-text {
+	 font-size: 20px !important;  }
+  }
 @media only screen and (max-width: 800px) {
 	.revo-slider-emphasis-text {
-	 font-size: 23px !important;  }
+	 font-size: 20px !important;  }
   }
   
 
