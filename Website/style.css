@@ -17185,7 +17185,7 @@ label.checkbox { padding-left: 20px; }
 
 .mapicon button{
 	background: lightgray;
-	border-radius: 15px;
+	border-radius: 10px;
 	border: 0px;
 	
 	
@@ -17202,6 +17202,7 @@ label.checkbox { padding-left: 20px; }
 
 @media only screen and (max-width: 800px) {
 	.revo-slider-emphasis-text {
-	 font-size: 22px !important;  }
+	 font-size: 23px !important;  }
   }
   
+
