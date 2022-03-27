@@ -13535,7 +13535,7 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 #map-overlay {
 	position: relative;
-	padding: 40px 0;
+	padding: 100px 0;
 }
 
 #map-overlay .gmap {
@@ -17197,15 +17197,20 @@ label.checkbox { padding-left: 20px; }
 
 
 .clearfix .hero{
-	text-align: left;
+	text-align: center;
 }
-@media only screen and (man-width: 400px) {
-	.revo-slider-emphasis-text {
-	 font-size: 20px !important;  }
-  }
+
 @media only screen and (max-width: 800px) {
 	.revo-slider-emphasis-text {
-	 font-size: 20px !important;  }
+	
+		font-size: 3.2vw !important; 
+	 }
+
+	 #slider
+	 {
+		font-size: 4.2vw !important;  
+	 }
+	
   }
   
 
