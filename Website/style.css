@@ -252,7 +252,7 @@ html{
 	}
 
 	h2 {
-		font-size: 1.5rem;
+		font-size: 1.1rem;
 	}
 
 	h3 {
@@ -17203,14 +17203,12 @@ label.checkbox { padding-left: 20px; }
 @media only screen and (max-width: 800px) {
 	.revo-slider-emphasis-text {
 	
-		font-size: 3.2vw !important; 
+		font-size: 5.2vmin !important; 
 	 }
 
-	 #slider
-	 {
-		font-size: 4.2vw !important;  
-	 }
-	
+	 .mx-auto{
+		 font-size: 5.3rem ;
+	 } 
   }
   
 
